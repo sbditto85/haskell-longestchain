@@ -1,3 +1,5 @@
+chain
+chainlength
 dist
 cabal-dev
 *.o
